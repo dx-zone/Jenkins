@@ -10,6 +10,8 @@ This is my quick reference of commands, configuations and procedures to work wit
 
 [Certified Jenkins Engineer](https://www.whizlabs.com/learn/course/certified-jenkins-engineer/306/video), by Whizlabs.com
 
+[What is Jenkins - Jenkins Overview, Definition of Jenkins Master & Slave](https://www.toolsqa.com/jenkins/what-is-jenkins/)
+
 [Learn Ruby The Hard Way, 3rd Edition](https://learnrubythehardway.org/book/), by Zed A. Shaw (come handy when working with Vagrantfile or with any other Hashi Corp software)
 
 [Vagrant: Machine Settings](https://www.vagrantup.com/docs/vagrantfile/machine_settings)
